@@ -1,0 +1,24 @@
+{
+  "name": "cp437",
+  "version": "1.0.0",
+  "description": "A simple package for legacy CP437(CCSID 437) table",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullokh-mukhammadjonov/cp437.git"
+  },
+  "keywords": [
+    "cp437",
+    "legacy-cp437",
+    "ccsid437"
+  ],
+  "author": "Abdullokh Mukhammadjonov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdullokh-mukhammadjonov/cp437/issues"
+  },
+  "homepage": "https://github.com/abdullokh-mukhammadjonov/cp437#readme"
+}
