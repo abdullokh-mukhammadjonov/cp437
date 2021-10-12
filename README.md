@@ -31,6 +31,21 @@ console.log('// find by dec')
 console.log(`('175', 'symbol') -> ${cp437.byDec('175', 'symbol')}`)
 console.log(`('155', 'hex') -> ${cp437.byDec('155', 'hex')}`)
 ```
+### Output
+```
+// find by symbol
+('£', 'hex') -> 9C
+('£', 'dec') -> 156
+('â', 'hex') -> 83
+
+// find by hex
+('B0', 'symbol') -> ░
+('EC', 'symbol') -> ∞
+
+// find by dec
+('175', 'symbol') -> »
+('155', 'hex') -> 9B
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
