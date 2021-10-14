@@ -11,7 +11,7 @@ npm install cp437
 ## Usage
 
 ```javascript
-const cp437 = require('./app.js')
+const cp437 = require('cp437')
 
 // find by symbol
 console.log('// find by symbol')
