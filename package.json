@@ -1,6 +1,6 @@
 {
   "name": "cp437",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple package for legacy CP437(CCSID 437) table",
   "main": "app.js",
   "scripts": {
